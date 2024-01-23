@@ -1,0 +1,2 @@
+# NetEase_Cloud_Music_Data_Analysis
+网易云爬虫项目简易版本，包括分析个人听歌偏好以及歌曲评论分析
